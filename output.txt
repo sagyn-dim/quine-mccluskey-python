@@ -1,0 +1,8 @@
+Here are all the prime implicants: 
+[V'W'Z] [V'YZ] [W'YZ] [X'YZ] [V'X] [W'X] [V'WY] [WX'Y] [VW'Y] [VX'Y] [VWX'Z] 
+
+Here are all the essential implicants: 
+[V'W'Z] [V'X] [W'X] [VWX'Z] 
+
+Here is the optimized output:
+[V'W'Z] [V'X] [W'X] [VWX'Z] [WX'Y] [VW'Y] 
